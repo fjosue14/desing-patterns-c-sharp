@@ -1,0 +1,14 @@
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\bin\Debug\net8.0\desing-patterns-c-sharp.exe
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\bin\Debug\net8.0\desing-patterns-c-sharp.deps.json
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\bin\Debug\net8.0\desing-patterns-c-sharp.runtimeconfig.json
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\bin\Debug\net8.0\desing-patterns-c-sharp.dll
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\bin\Debug\net8.0\desing-patterns-c-sharp.pdb
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.AssemblyInfo.cs
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.dll
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\refint\desing-patterns-c-sharp.dll
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.pdb
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\desing-patterns-c-sharp.genruntimeconfig.cache
+C:\Users\Fernando\Documents\code\desing-patterns-c-sharp\desing-patterns-c-sharp\obj\Debug\net8.0\ref\desing-patterns-c-sharp.dll
