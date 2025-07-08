@@ -1,5 +1,5 @@
 ﻿/**
- * ! Chain of Responsibility Pattern
+* ! Chain of Responsibility Pattern
 * It is a behavioral design pattern that allows you to pass requests
 * along a chain of handlers.
 *
@@ -84,7 +84,7 @@ namespace desing_patterns_c_sharp.Behavioral.ChainResponsibility
             base.handle(request);
         }
     }
-    public static class ChainResponsibility1
+    public static class ChainResponsibility_1
     {
         public static void main()
         {

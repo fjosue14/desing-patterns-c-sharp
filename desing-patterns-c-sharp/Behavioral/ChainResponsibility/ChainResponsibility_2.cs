@@ -77,7 +77,7 @@ namespace desing_patterns_c_sharp.Behavioral.ChainResponsibility
             Console.WriteLine("Request approved by Director");
         }
     }
-    public static class ChainResponsibility2
+    public static class ChainResponsibility_2
     {
         public static void main()
         {
